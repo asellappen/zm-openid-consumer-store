@@ -1,0 +1,19 @@
+# ----------------------------------------------------------------------------
+#
+# Package             : zm-openid-consumer-store
+# Source Repo         : https://github.com/Zimbra/zm-openid-consumer-store.git
+# Travis Job Link     : https://travis-ci.com/github/asellappen/zm-openid-consumer-store/
+# Created travis.yml  : Yes
+# Maintainer          : Arumugam N S <asellappen@yahoo.com> / Priya Seth<sethp@us.ibm.com>
+#
+# Script License      : Apache License, Version 2 or later
+#
+# ----------------------------------------------------------------------------
+dist: focal
+
+language: java
+
+arch:
+  - amd64
+  - ppc64le
+ 
